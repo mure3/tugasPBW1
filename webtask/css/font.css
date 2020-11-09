@@ -1,0 +1,21 @@
+form {
+	width : 500px;
+	margin : auto;
+}
+h1,h2 {
+	font-family: 'Rubik',cursive;
+	color: white;
+	padding: 25px;
+}
+.table {
+	font-family: 'Ubuntu',cursive;
+	color: white;
+	background-color: #293063;
+}
+body {
+	background-image: url('gambar2.jpg');
+}
+.container {
+	font-family: 'Ubuntu',cursive;
+	color: white;
+}
